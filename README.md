@@ -1,6 +1,6 @@
 # Book
 
-This repository contains the source for the book [Book](https://dcl-book.stanford.edu/).
+This repository contains the source for the book [Book](https://dcl-book.stanford.edu).
 
 We welcome suggestions for improvements.
 
